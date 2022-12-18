@@ -1771,7 +1771,7 @@ exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
 Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLBVrgpCpAnw2ZHjdSrdjasj6crrD1RBgm
+Recode : wa.me/6285624823115
 `
 }
 exports.tos = (ownernomer) => {
@@ -1780,6 +1780,8 @@ exports.tos = (ownernomer) => {
 
 Hai kak ☺️ 
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
+Pulsa Im3: 081646829895
+Dana: 089531704997
 
 Berapapun donasi kalian akan sangat berarti 👍
 Buat kalian yang sudah donasi bisa kirim bukti
